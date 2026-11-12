@@ -206,4 +206,4 @@ This repository serves as the official landing page for EZComm. The software is 
 **Get the most recent version of EZComm today!** | Updated November 2024
 
 ---
-**Last updated:** 2026-11-11 18:56:07 UTC
+**Last updated:** 2026-11-12 01:09:59 UTC
